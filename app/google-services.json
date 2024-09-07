@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "205242815195",
+    "firebase_url": "https://flower-10a39-default-rtdb.firebaseio.com",
+    "project_id": "flower-10a39",
+    "storage_bucket": "flower-10a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205242815195:android:f592a6ccfb89439f5e72fe",
+        "android_client_info": {
+          "package_name": "com.suelee.maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrx7l1LahGxw1BdWprW-vwcOWXOHtW7dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
